@@ -1,13 +1,19 @@
-p{
-    color: brown;
-    background-color: aqua;
-    font-size: 25px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-style: italic;
-    font-weight: bold}
+@font-face {
+    font-family: heading;
+    src: url(font/Salt\ Debris.otf);
+}
 
     h2{
-        color: red;
-        font-size: 100px
+        color: blue;
+        font-size: 30px;
+        font-style: italic;
+        font-weight: bolder;
+        font-variant: small-caps;
+        font-family: heading;
         
+    }
+
+    p{
+        color: brown;
+        text-align: right;
     }
