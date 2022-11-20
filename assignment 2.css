@@ -1,0 +1,81 @@
+*{
+    margin: auto;
+    
+}
+header{
+    width: 800px;
+    height: 50px;
+    background-color: brown;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+main{
+    width:800px;
+    height: 500px;
+    background-color: yellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.box1{
+    width: 200px;
+    height: 200px;
+    background-image: url(/image/WhatsApp\ Image\ 2022-11-19\ at\ 8.17.33\ PM.jpeg);
+    background-size: cover;
+    position: relative;
+    left: -280px;
+    top: 30px;}
+.box2{
+    width: 200px;
+    height: 200px;
+    background-image: url(/image/WhatsApp\ Image\ 2022-11-19\ at\ 8.17.33\ PM\ \(1\).jpeg);
+    background-size: cover;
+    position: relative;
+    left: -280px;
+    top: 70px;
+}
+   
+
+
+.box3{
+    width: 200px;
+    height: 200px;
+    background-image: url(/image/WhatsApp\ Image\ 2022-11-19\ at\ 8.17.33\ PM\ \(2\).jpeg);
+    background-size: cover;
+    position: relative;
+    top: -370px;
+    left: -50px;
+
+}
+.box4{
+    width: 200px;
+    height: 200px;
+    background-image: url(/image/WhatsApp\ Image\ 2022-11-19\ at\ 8.17.34\ PM.jpeg);
+    background-size: cover;
+    position: relative;
+    top: -330px;
+    left: -50px;
+}
+
+.box5{
+    width: 300px;
+    height: 440px;
+    background-image: url(/image/WhatsApp\ Image\ 2022-11-19\ at\ 8.17.34\ PM\ \(1\).jpeg);
+    background-size: cover;
+    position: absolute;
+    top:90px;
+    left: 740px;
+}
+
+
+
+
+
+footer{
+    width: 800px;
+    height: 50px;
+    background-color: brown;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}

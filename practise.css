@@ -1,0 +1,36 @@
+.box img
+{
+   width: 100vw;
+   height: 100vh;
+   position: absolute;
+   top: 0PX;
+
+}
+
+h2{
+    position: relative;
+    top: 100PX;
+}
+.card
+{
+  position: absolute;
+  top: 100px;
+  left: 50px;
+}
+.card input{
+    padding: 10px;
+    
+    
+}
+.card h2{
+    position:absolute;
+    top: -150px;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-shadow: 3PX 3PX 3PX green;
+    font-size: 50PX;
+    
+    
+
+}
